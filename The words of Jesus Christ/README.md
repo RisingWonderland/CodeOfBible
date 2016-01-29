@@ -5,4 +5,4 @@
 ## Versions of the Bible
 
 中文版：新译本。
-英文版：ESV
+英文版：ESV。
